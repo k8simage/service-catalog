@@ -1,2 +1,2 @@
-FROM gcr.io/gcp-services/service-catalog:v0.1.11-gke.0
+FROM quay.io/kubernetes-service-catalog/service-catalog:v0.1.14
 MAINTAINER cheneydc <cheneydc@gmail.com>
